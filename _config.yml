@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Hongbo Liu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Hongbo Liu"
+description              : &description "Hi there! I am currently a third-year Ph.D. student at the School of Computer Science, Tongji University, advised by Prof. Shengjie Zhao. My research interests lie in multimodal understanding and generation. My CV is available here (I will provide a hyperlink). Before starting my Ph.D., I received my B.Eng. degree from the School of Software Engineering at Tongji University. My current research focuses on multimodal understanding and generation."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
